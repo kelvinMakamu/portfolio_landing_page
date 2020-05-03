@@ -4,11 +4,11 @@
 }
 
 body{
+	height: auto;
 	font-size: 12px;
 	font-family: 'Oxygen Mono', monospace;
 	font-color:#000;
 	background-color: #fff;
-	height: auto;
 }
 
 .portfolio_introductory{
@@ -39,6 +39,13 @@ body{
   white-space: nowrap; 
   margin: 0 auto; 
   animation: typing 3.5s steps(30, end), blink-caret .5s step-end infinite;
+}
+
+.portfolio_content{
+	float:left;
+	width: 100%;
+	height: auto;
+	padding:20px 20px 20px 20px;
 }
 
 @keyframes typing {
