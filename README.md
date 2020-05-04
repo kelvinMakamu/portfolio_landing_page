@@ -10,13 +10,11 @@ The projects include the following info:
 * Personal Projects
 ## Project set up instructions
 To start using this project:
-````
-* git clone https://github.com/kelvinMakamu/portfolio_landing_page.git
-* cd portfolio_landing_page
-* atom . * for ATOM  IDE *
-* sublime . * for SUBLIME  IDE *
-* code . * for Visual Studio Code  IDE *
-````
+* `git clone https://github.com/kelvinMakamu/portfolio_landing_page.git`
+* `cd portfolio_landing_page`
+* `atom . `* for ATOM  IDE *
+* `sublime .` * for SUBLIME  IDE *
+* `code . `* for Visual Studio Code  IDE *
 ## Technologies Used
 * HTML 5
 * CSS 3
