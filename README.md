@@ -10,4 +10,7 @@ The projects include the following info:
 * Personal Projects
 ## Project set up instructions
 ## Technologies Used
+* HTML 5
+* CSS 3
+* GIT
 ## License Info
