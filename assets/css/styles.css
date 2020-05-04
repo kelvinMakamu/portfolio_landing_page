@@ -47,6 +47,8 @@ body{
 	width: 100%;
 	height: auto;
 	padding:20px 20px 20px 20px;
+	border-bottom:2px solid #dedede;
+	margin-bottom: 2%;
 }
 
 .portfolio_background{
@@ -94,9 +96,13 @@ body{
 	font-weight: bold;
 }
 
-.title{
+.title,.project_title{
 	text-align: center;
 	margin-bottom: 1.5%;
+}
+
+.project_title{
+	margin-top: 2.5%;
 }
 
 hr{
