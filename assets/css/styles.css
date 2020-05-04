@@ -5,6 +5,7 @@
 
 h1,h2,h3,h4,h5{
 	text-transform: uppercase;
+	color:#cecece;
 }
 
 body{
@@ -111,6 +112,8 @@ body{
 
 hr{
 	border:unset;
+	margin-top: 1.5%;
+	margin-bottom: 2.5%;
 	border-bottom:2px solid #dedede;
 }
 
@@ -142,12 +145,29 @@ hr{
 
 .project_content{
 	float: left;
-	width: 30%;
+	width: 27%;
 	margin:0.5% 0.5% 0.5% 0.5%;
-	padding:10px 10px 10px 10px;
+	padding:20px 20px 20px 20px;
 	border:1px solid #dedede;
 	border-radius: 5px;
 	box-shadow:0px 2px 3px #dedede;
+}
+
+.project1{
+	margin-left:5%;
+}
+
+.project_description{
+	font-size: 14px;
+	line-height: 25px;
+}
+
+.project_description ul{
+	padding:10px 20px;
+}
+
+.project_link{
+	padding:10px 20px;
 }
 
 @keyframes typing {
