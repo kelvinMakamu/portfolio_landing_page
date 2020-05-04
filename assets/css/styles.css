@@ -56,6 +56,44 @@ body{
 	border-right: 1px solid #dedede;
 }
 
+.portfolio_background .background_prose{
+	width: 85%;
+	border:1px solid #dedede;
+	box-shadow:0px 2px 3px #dedede;
+	padding: 20px 20px 20px 20px;
+	margin:10% 7% 1.5% 4.5%;
+}
+
+.left_title{
+	text-align: left;
+	margin:4.5% 0% 1.5% 0%;
+}
+
+.experience_container{
+	width: 100%;
+	height: auto;
+	padding:10px 10px 10px 0px;
+}
+
+.add_rule{
+	margin:1.5% 0% 1.5% 0%;
+	border-bottom:1px solid #ccc;
+}
+
+.experience_container p{
+	margin-bottom:2%;
+}
+
+.experience_bullets{
+	color:#000033;
+	font-weight: lighter;
+	margin-left: 2.5%;
+}
+
+.role{
+	font-weight: bold;
+}
+
 .title{
 	text-align: center;
 	margin-bottom: 1.5%;
@@ -70,6 +108,15 @@ hr{
 	font-size:16px;
 	margin-top: 5%;
 	padding:20px 20px 20px 20px;
+}
+
+.reasons_list{
+	font-size:16px;
+	padding:10px 10px 10px 10px;
+}
+
+.reasons_list li{
+	height: 25px;
 }
 
 .skill_list li{
