@@ -12,9 +12,9 @@ The projects include the following info:
 To start using this project:
 * `git clone https://github.com/kelvinMakamu/portfolio_landing_page.git`
 * `cd portfolio_landing_page`
-* `atom . `* for ATOM  IDE *
-* `sublime .` * for SUBLIME  IDE *
-* `code . `* for Visual Studio Code  IDE *
+* `atom . `*for ATOM*
+* `sublime .` *for SUBLIME*
+* `code . `*for Visual Studio Code*
 ## Technologies Used
 * HTML 5
 * CSS 3
