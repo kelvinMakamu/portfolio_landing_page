@@ -19,6 +19,8 @@ To start using this project:
 * HTML 5
 * CSS 3
 * GIT
+## Project Demo
+[Portfolio Landing Page](https://kelvinmakamu.github.io/portfolio_landing_page/)
 ## License Info
 MIT License
 
